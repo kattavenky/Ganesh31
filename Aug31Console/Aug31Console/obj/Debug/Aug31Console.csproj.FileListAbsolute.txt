@@ -6,3 +6,11 @@ E:\GitSample\Aug31Console\Aug31Console\obj\Debug\Aug31Console.csproj.SuggestedBi
 E:\GitSample\Aug31Console\Aug31Console\obj\Debug\Aug31Console.csproj.CoreCompileInputs.cache
 E:\GitSample\Aug31Console\Aug31Console\obj\Debug\Aug31Console.exe
 E:\GitSample\Aug31Console\Aug31Console\obj\Debug\Aug31Console.pdb
+E:\samplegit\Ganesh31\Aug31Console\Aug31Console\bin\Debug\Aug31Console.exe.config
+E:\samplegit\Ganesh31\Aug31Console\Aug31Console\bin\Debug\Aug31Console.exe
+E:\samplegit\Ganesh31\Aug31Console\Aug31Console\bin\Debug\Aug31Console.pdb
+E:\samplegit\Ganesh31\Aug31Console\Aug31Console\obj\Debug\Aug31Console.csproj.AssemblyReference.cache
+E:\samplegit\Ganesh31\Aug31Console\Aug31Console\obj\Debug\Aug31Console.csproj.SuggestedBindingRedirects.cache
+E:\samplegit\Ganesh31\Aug31Console\Aug31Console\obj\Debug\Aug31Console.csproj.CoreCompileInputs.cache
+E:\samplegit\Ganesh31\Aug31Console\Aug31Console\obj\Debug\Aug31Console.exe
+E:\samplegit\Ganesh31\Aug31Console\Aug31Console\obj\Debug\Aug31Console.pdb

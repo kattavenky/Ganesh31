@@ -11,6 +11,7 @@ namespace Aug31Console
         static void Main(string[] args)
         {
             Console.WriteLine("today is Aug 31 Thrusday");
+            Console.ReadLine();
         }
     }
 }
